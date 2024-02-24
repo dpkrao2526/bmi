@@ -16,8 +16,9 @@ How to Use:
 Input your weight in kilograms.
 Input your height in centimeters.
 Click the "Calculate BMI" button to see your BMI category and diet suggestions.
-Screenshots:
 
+Screenshots:
+https://drive.google.com/drive/folders/1-ffIsk9DUK1YdNhBDzaMW9zkIlnakiuT?usp=drive_link
 
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
